@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" dir="ltr" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lumora Cinemas — Coming Soon</title>
+  <meta name="description" content="Lumora Cinemas — premium multiplex cinema experiences with luxury seating, immersive sound and laser projection.">
+  <meta name="theme-color" content="#0b0b12">
+  <meta property="og:title" content="Lumora Cinemas">
+  <meta property="og:description" content="Where light becomes story.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="public/assets/logo/favicon.svg">
+  <link rel="icon" type="image/svg+xml" href="public/assets/logo/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;700&display=swap">
+  <script>
+    /* Apply saved theme/direction before paint (no flash). */
+    (function () {
+      try {
+        var r = document.documentElement;
+        var t = localStorage.getItem('lumora-theme') || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+        var d = localStorage.getItem('lumora-dir') || 'ltr';
+        r.setAttribute('data-theme', t);
+        r.setAttribute('dir', d);
+        
+      } catch (e) { /* storage unavailable */ }
+    })();
+  </script>
+  <link rel="stylesheet" href="public/css/styles.css">
+  <script type="module" src="public/js/main.js"></script>
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main id="main" tabindex="-1" data-page="coming-soon"></main>
+
+  <div id="site-footer"></div>
+</body>
+</html>

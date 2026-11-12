@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Lumora Cinemas">
+  <defs>
+    <path id="ring" d="M60 60m-47 0a47 47 0 1 1 94 0a47 47 0 1 1-94 0"/>
+  </defs>
+  <circle cx="60" cy="60" r="57" fill="none" stroke="#D4AF6A" stroke-width="2"/>
+  <circle cx="60" cy="60" r="35" fill="none" stroke="#D4AF6A" stroke-width="1"/>
+  <text font-family="Georgia,serif" font-size="9" letter-spacing="3.2" fill="#D4AF6A"><textPath href="#ring" startOffset="2%">LUMORA ✦ CINEMAS ✦ LUMORA ✦</textPath></text>
+  <!-- 8-blade aperture -->
+  <g fill="#D4AF6A" transform="translate(60 62)">
+    <g id="b"><path d="M0-27 L9-9 L0 0 L-9-9Z" opacity=".92"/></g>
+    <use href="#b" transform="rotate(45)" opacity=".75"/><use href="#b" transform="rotate(90)"/>
+    <use href="#b" transform="rotate(135)" opacity=".75"/><use href="#b" transform="rotate(180)"/>
+    <use href="#b" transform="rotate(225)" opacity=".75"/><use href="#b" transform="rotate(270)"/>
+    <use href="#b" transform="rotate(315)" opacity=".75"/>
+  </g>
+  <circle cx="60" cy="62" r="6" fill="var(--logo-core,#0B0B12)"/>
+  <!-- proscenium crown -->
+  <path d="M42 30 Q60 14 78 30" fill="none" stroke="#D4AF6A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M60 10 L63 17 L57 17Z" fill="#D4AF6A"/>
+</svg>

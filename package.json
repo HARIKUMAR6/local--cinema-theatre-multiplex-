@@ -1,0 +1,15 @@
+{
+  "name": "lumora-cinemas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lumora Cinemas - Phase 1 foundation",
+  "scripts": {
+    "build": "node node_modules/@tailwindcss/cli/dist/index.mjs -i ./src/css/input.css -o ./public/css/styles.css --minify",
+    "dev": "node node_modules/@tailwindcss/cli/dist/index.mjs -i ./src/css/input.css -o ./public/css/styles.css --watch",
+    "serve": "npx --yes serve . -l 5173"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}

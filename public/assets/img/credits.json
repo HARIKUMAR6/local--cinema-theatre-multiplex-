@@ -1,0 +1,530 @@
+{
+ "midnight-meridian-poster": {
+  "file": "File:Milky Way Night Sky (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_(Unsplash).jpg",
+  "author": "Guillaume guillaume"
+ },
+ "crimson-tide-rising-poster": {
+  "file": "File:Storms At Sea (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Storms_At_Sea_(Unsplash).jpg",
+  "author": "JOHN TOWNER heytowner"
+ },
+ "paper-moons-poster": {
+  "file": "File:Glowing Paper Lanterns (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Glowing_Paper_Lanterns_(Unsplash).jpg",
+  "author": "Peter Hershey peterhershey"
+ },
+ "velvet-hour-poster": {
+  "file": "File:New york man plays clarinet (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:New_york_man_plays_clarinet_(Unsplash).jpg",
+  "author": "Julian Tung juliantung44"
+ },
+ "h1-exp-screens": {
+  "file": "File:Panorama of an IMAX 15 70 mm Film Projector.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_an_IMAX_15_70_mm_Film_Projector.jpg",
+  "author": "DiscoA340"
+ },
+ "h1-exp-sound": {
+  "file": "File:Mixing console (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mixing_console_(Unsplash).jpg",
+  "author": "Abigail  Keenan akeenster"
+ },
+ "h1-exp-seating": {
+  "file": "File:Movie theater seats (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Movie_theater_seats_(Unsplash).jpg",
+  "author": "Elijah Flores baesik"
+ },
+ "winters-gambit-poster": {
+  "file": "File:Vintage chess pieces (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Vintage_chess_pieces_(Unsplash).jpg",
+  "author": "Lou Levit loulevit"
+ },
+ "glass-kingdom-poster": {
+  "file": "File:Neuschwanstein Castle, Schwangau, Germany (Unsplash UdQ4SdV9UE8).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle,_Schwangau,_Germany_(Unsplash_UdQ4SdV9UE8).jpg",
+  "author": "Ashley Knedler aknedler"
+ },
+ "gingerbread-heist-poster": {
+  "file": "File:Christmas Treats (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Christmas_Treats_(Unsplash).jpg",
+  "author": "Jennifer Pallian foodess"
+ },
+ "h1-offer-tuesday": {
+  "file": "File:Ticket stubs of the Hongōza Movie Theater 1937-1940.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Ticket_stubs_of_the_Hong%C5%8Dza_Movie_Theater_1937-1940.jpg",
+  "author": "Shochiku Co., Ltd."
+ },
+ "h1-offer-student": {
+  "file": "File:2026 Poland movie theater ticket Multikino Katowice.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:2026_Poland_movie_theater_ticket_Multikino_Katowice.jpg",
+  "author": "Unknown authorUnknown author"
+ },
+ "h1-offer-family": {
+  "file": "File:Bowl of Popcorn (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bowl_of_Popcorn_(Unsplash).jpg",
+  "author": "Alex Munsell alexmunsell"
+ },
+ "h1-cta-bg": {
+  "file": "File:Biograf Palladium Karlstad interiör.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Biograf_Palladium_Karlstad_interi%C3%B6r.jpg",
+  "author": "Dan Gunner"
+ },
+ "h2-hero-bg": {
+  "file": "File:Panorama of an IMAX 15 70 mm Film Projector 2.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_an_IMAX_15_70_mm_Film_Projector_2.jpg",
+  "author": "DiscoA340"
+ },
+ "neon-requiem-poster": {
+  "file": "File:Neon streets (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Neon_streets_(Unsplash).jpg",
+  "author": "JINDONG H jindong"
+ },
+ "h2-genre-Action": {
+  "file": "File:Offroading in the Desert (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Offroading_in_the_Desert_(Unsplash).jpg",
+  "author": "NeONBRAND neonbrand"
+ },
+ "h2-genre-Drama": {
+  "file": "File:Lone Stranger in the Snow (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lone_Stranger_in_the_Snow_(Unsplash).jpg",
+  "author": "Austin Scherbarth ascherby"
+ },
+ "h2-genre-Comedy": {
+  "file": "File:Three friends by train tracks (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Three_friends_by_train_tracks_(Unsplash).jpg",
+  "author": "Priscilla Du Preez artographybyp"
+ },
+ "h2-genre-Horror": {
+  "file": "File:Fog devouring a forest (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fog_devouring_a_forest_(Unsplash).jpg",
+  "author": "Frances Gunn francesgunn"
+ },
+ "h2-genre-Family": {
+  "file": "File:Making Sand Castles (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Making_Sand_Castles_(Unsplash).jpg",
+  "author": "Pengsheng Guo ps_guo"
+ },
+ "velvet-hour-backdrop": {
+  "file": "File:Jazz band in Nola (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Jazz_band_in_Nola_(Unsplash).jpg",
+  "author": "Fede Casanova fedecasanova"
+ },
+ "starlight-brigade-poster": {
+  "file": "File:Stars over the trees (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stars_over_the_trees_(Unsplash).jpg",
+  "author": "Aperture Vintage aperturevintage"
+ },
+ "hollow-pines-poster": {
+  "file": "File:Shadows of spruce trees in heavy fog (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Shadows_of_spruce_trees_in_heavy_fog_(Unsplash).jpg",
+  "author": "Artem Sapegin sapegin"
+ },
+ "iron-valley-poster": {
+  "file": "File:Riding Through The Desert (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Riding_Through_The_Desert_(Unsplash).jpg",
+  "author": "Rob Bye robertbye"
+ },
+ "the-quiet-orchestra-poster": {
+  "file": "File:Pianist's hands in black and white (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pianist%27s_hands_in_black_and_white_(Unsplash).jpg",
+  "author": "Jamille Queiroz jamillejqueiroz"
+ },
+ "h2-exp-screens": {
+  "file": "File:IMAX 15 70 mm Film Projector in Paris.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:IMAX_15_70_mm_Film_Projector_in_Paris.jpg",
+  "author": "DiscoA340"
+ },
+ "h2-exp-sound": {
+  "file": "File:Mixing console in Korsze (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mixing_console_in_Korsze_(Unsplash).jpg",
+  "author": "freestocks.org freestocks"
+ },
+ "h2-exp-seating": {
+  "file": "File:Biograf Palladium Karlstad interiör balkong.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Biograf_Palladium_Karlstad_interi%C3%B6r_balkong.jpg",
+  "author": "Dan Gunner"
+ },
+ "black-orchid-backdrop": {
+  "file": "File:White orchids on black (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:White_orchids_on_black_(Unsplash).jpg",
+  "author": "Kai Oberhäuser memoryonsounds"
+ },
+ "tidebreakers-backdrop": {
+  "file": "File:Surfer and the stormy sea (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Surfer_and_the_stormy_sea_(Unsplash).jpg",
+  "author": "Xavier Nohet xavifuji"
+ },
+ "letters-to-nowhere-backdrop": {
+  "file": "File:Flatlay with a small notebook (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Flatlay_with_a_small_notebook_(Unsplash).jpg",
+  "author": "Jens Kreuter jenskreuter"
+ },
+ "revenant-road-backdrop": {
+  "file": "File:Dirt road by a forest (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dirt_road_by_a_forest_(Unsplash).jpg",
+  "author": "Dogoff Zambrano hfargon"
+ },
+ "h2-cta-art": {
+  "file": "File:Pathé cinema - Amsterdam - Winter 16 (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Path%C3%A9_cinema_-_Amsterdam_-_Winter_16_(Unsplash).jpg",
+  "author": "Jonathan Andreo canislupus"
+ },
+ "the-last-lantern-poster": {
+  "file": "File:Lighthouse at night (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_at_night_(Unsplash).jpg",
+  "author": "Janus Y janus"
+ },
+ "echoes-of-ember-poster": {
+  "file": "File:Glowing Embers (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Glowing_Embers_(Unsplash).jpg",
+  "author": "Peter Forster peter_forster"
+ },
+ "aurora-protocol-poster": {
+  "file": "File:Lofoten, Norway (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lofoten,_Norway_(Unsplash).jpg",
+  "author": "Johannes Groll followhansi"
+ },
+ "h2-genre-Sci-Fi": {
+  "file": "File:Orion Nebula (Hubble Space Telescope).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Orion_Nebula_(Hubble_Space_Telescope).jpg",
+  "author": "NASA nasa"
+ },
+ "h1-hero-bg": {
+  "file": "File:Moorish Cinema Design Auditorium Interior 10 01 2026.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Moorish_Cinema_Design_Auditorium_Interior_10_01_2026.jpg",
+  "author": "Diomedes1962"
+ },
+ "about-hero-bg": {
+  "file": "File:Yokota Air Base Theater re-opens (9236110).jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Yokota_Air_Base_Theater_re-opens_(9236110).jpg",
+  "author": "U.S. Air Force photo by Staff Sgt. Manuel Zamora"
+ },
+ "about-story-heritage": {
+  "file": "File:Bell & Howell film projector Recreation Hall The Retreat Hospital Aug25 01.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bell_%26_Howell_film_projector_Recreation_Hall_The_Retreat_Hospital_Aug25_01.jpg",
+  "author": "Malcolmxl5"
+ },
+ "about-story-camera": {
+  "file": "File:Super 8 Camcorder (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Super_8_Camcorder_(Unsplash).jpg",
+  "author": "Thomas William thomasw"
+ },
+ "about-mission": {
+  "file": "File:Interior of movie theater, AMC Century City, Sept. 2024.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Interior_of_movie_theater,_AMC_Century_City,_Sept._2024.jpg",
+  "author": "Alexis Doine"
+ },
+ "about-vision": {
+  "file": "File:Film Reel on an IMAX 15 70 mm Film Projector.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Film_Reel_on_an_IMAX_15_70_mm_Film_Projector.jpg",
+  "author": "DiscoA340"
+ },
+ "about-exp-screens": {
+  "file": "File:Projection-screen-home.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Projection-screen-home.jpg",
+  "author": ""
+ },
+ "about-exp-sound": {
+  "file": "File:Yamaha M7CL digital live-sound mixing console - left half angled.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Yamaha_M7CL_digital_live-sound_mixing_console_-_left_half_angled.jpg",
+  "author": "beeki from Scheeßel, Germany"
+ },
+ "about-exp-seating": {
+  "file": "File:Disused Cinema (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Disused_Cinema_(Unsplash).jpg",
+  "author": "Felix Mooneeram felixmooneeram"
+ },
+ "about-why-bg": {
+  "file": "File:IMAX 15 70 mm Film Projector in Paris 2.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:IMAX_15_70_mm_Film_Projector_in_Paris_2.jpg",
+  "author": "DiscoA340"
+ },
+ "contact-hero-bg": {
+  "file": "File:The streets of San Francisco (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:The_streets_of_San_Francisco_(Unsplash).jpg",
+  "author": "Ferdinand Stöhr fellowferdi"
+ },
+ "contact-form-side": {
+  "file": "File:At the Cinema (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:At_the_Cinema_(Unsplash).jpg",
+  "author": "Clem Onojeghuo clemono2"
+ },
+ "st-hero-bg": {
+  "file": "File:Bell & Howell film projector Recreation Hall The Retreat Hospital Aug25 02.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bell_%26_Howell_film_projector_Recreation_Hall_The_Retreat_Hospital_Aug25_02.jpg",
+  "author": "Malcolmxl5"
+ },
+ "midnight-meridian-showtime": {
+  "file": "File:Milky Way (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_(Unsplash).jpg",
+  "author": "Billy Huynh billy_huy"
+ },
+ "the-last-lantern-showtime": {
+  "file": "File:Lighthouse on rocks (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_on_rocks_(Unsplash).jpg",
+  "author": "Helvin Nyoliman helvinnyoliman"
+ },
+ "crimson-tide-rising-showtime": {
+  "file": "File:Stormy moonlit ocean, Southwold (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stormy_moonlit_ocean,_Southwold_(Unsplash).jpg",
+  "author": "Conrad Ziebland conradz"
+ },
+ "paper-moons-showtime": {
+  "file": "File:Paper lantern festival.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Paper_lantern_festival.jpg",
+  "author": "Zaheed Sarwer Khan"
+ },
+ "echoes-of-ember-showtime": {
+  "file": "File:Fire and logs at night (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fire_and_logs_at_night_(Unsplash).jpg",
+  "author": "Sandis Helvigs sandishelvigs"
+ },
+ "velvet-hour-showtime": {
+  "file": "File:Man in Cafe by Neon Lights (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Man_in_Cafe_by_Neon_Lights_(Unsplash).jpg",
+  "author": "Clem Onojeghuo clemono2"
+ },
+ "starlight-brigade-showtime": {
+  "file": "File:Amazing Stars (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Amazing_Stars_(Unsplash).jpg",
+  "author": "Wilson Ye wilsonye123"
+ },
+ "hollow-pines-showtime": {
+  "file": "File:Forest under fog (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Forest_under_fog_(Unsplash).jpg",
+  "author": "Carmine De Fazio carminu"
+ },
+ "neon-requiem-showtime": {
+  "file": "File:Neon Walks (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Neon_Walks_(Unsplash).jpg",
+  "author": "Redd Angelo reddangelo16"
+ },
+ "saltwater-summer-showtime": {
+  "file": "File:Rowing into the sunset (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rowing_into_the_sunset_(Unsplash).jpg",
+  "author": "Pete Nowicki shadypete"
+ },
+ "iron-valley-showtime": {
+  "file": "File:Desert Boulders (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Desert_Boulders_(Unsplash).jpg",
+  "author": "Rob Bye robertbye"
+ },
+ "the-quiet-orchestra-showtime": {
+  "file": "File:Elegant man playing piano (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Elegant_man_playing_piano_(Unsplash).jpg",
+  "author": "Dominik Scythe drscythe"
+ },
+ "st-theatre-screen": {
+  "file": "File:Film Screen in the Jeu de Paume.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Film_Screen_in_the_Jeu_de_Paume.jpg",
+  "author": "DiscoA340"
+ },
+ "st-theatre-lobby": {
+  "file": "File:Multi-display projection setup in Historial Jeanne d'Arc 2025-03-22.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Multi-display_projection_setup_in_Historial_Jeanne_d%27Arc_2025-03-22.jpg",
+  "author": "Andy Li"
+ },
+ "st-fmt-imax": {
+  "file": "File:Film going through an IMAX 15 70 mm Film Projector.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Film_going_through_an_IMAX_15_70_mm_Film_Projector.jpg",
+  "author": "DiscoA340"
+ },
+ "st-fmt-atmos": {
+  "file": "File:Bose speaker (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bose_speaker_(Unsplash).jpg",
+  "author": "Gabriel Beaudry gbeaudry"
+ },
+ "st-fmt-4dx": {
+  "file": "File:Excited people green rollercoaster (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Excited_people_green_rollercoaster_(Unsplash).jpg",
+  "author": "Aaron Burden aaronburden"
+ },
+ "st-fmt-standard": {
+  "file": "File:Old film projector (49259).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_film_projector_(49259).jpg",
+  "author": "Shyamal"
+ },
+ "st-cta-bg": {
+  "file": "File:1926 - New Pergola Theater Allentown PA.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:1926_-_New_Pergola_Theater_Allentown_PA.jpg",
+  "author": "Ann Bartholomew (Author), Carol M. Front (Author) (2002), Allentown (Images of America), Arcadia Publishing (April 8, 2002), ISBN-10: 0738509965"
+ },
+ "cs-hero-bg": {
+  "file": "File:Date night (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Date_night_(Unsplash).jpg",
+  "author": "Kevin Lee kevin_lee"
+ },
+ "cs-featured": {
+  "file": "File:Aurora borealis over Eielson Air Force Base, Alaska.jpg",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg",
+  "author": "United States Air Force photo by Senior Airman Joshua Strang"
+ },
+ "aurora-protocol-upcoming": {
+  "file": "File:Milky Way Silverthorne (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_Silverthorne_(Unsplash).jpg",
+  "author": "Nathan Anderson nathananderson"
+ },
+ "winters-gambit-upcoming": {
+  "file": "File:Snow covered tree landscape (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Snow_covered_tree_landscape_(Unsplash).jpg",
+  "author": "Ryan Pohanic elevatedtv"
+ },
+ "glass-kingdom-upcoming": {
+  "file": "File:Eilean Donan Castle on a cloudy day (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle_on_a_cloudy_day_(Unsplash).jpg",
+  "author": "Sorin Tudorut sharpixdigital"
+ },
+ "gingerbread-heist-upcoming": {
+  "file": "File:Christmas Lights Bokeh Effect (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Christmas_Lights_Bokeh_Effect_(Unsplash).jpg",
+  "author": "thr3 eyes thr3eyes"
+ },
+ "black-orchid-upcoming": {
+  "file": "File:White orchids (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:White_orchids_(Unsplash).jpg",
+  "author": "Joanna Kosinska joannakosinska"
+ },
+ "tidebreakers-upcoming": {
+  "file": "File:Cape Point (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_Point_(Unsplash).jpg",
+  "author": "samsommer samsomfotos"
+ },
+ "letters-to-nowhere-upcoming": {
+  "file": "File:Vintage typewriter (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Vintage_typewriter_(Unsplash).jpg",
+  "author": "Florian Klauer florianklauer"
+ },
+ "revenant-road-upcoming": {
+  "file": "File:Desert Empty Highway (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Desert_Empty_Highway_(Unsplash).jpg",
+  "author": "John King johnking"
+ },
+ "cs-genre-Action": {
+  "file": "File:Fire Breathing (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fire_Breathing_(Unsplash).jpg",
+  "author": "Alejandro Alvarez a2foto"
+ },
+ "cs-genre-Sci-Fi": {
+  "file": "File:Large metropolis at night (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Large_metropolis_at_night_(Unsplash).jpg",
+  "author": "Peter John Maridable pj24dm"
+ },
+ "cs-genre-Drama": {
+  "file": "File:Walking Alone (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Walking_Alone_(Unsplash).jpg",
+  "author": "Daniel Tseng daniel840528"
+ },
+ "cs-genre-Comedy": {
+  "file": "File:Photographer Friends (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Photographer_Friends_(Unsplash).jpg",
+  "author": "Katie Treadway katietreadway"
+ },
+ "cs-genre-Horror": {
+  "file": "File:Foggy woodlands (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Foggy_woodlands_(Unsplash).jpg",
+  "author": "Roksolana Zasiadko cieloadentro"
+ },
+ "cs-genre-Family": {
+  "file": "File:Family watching beach sunset (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Family_watching_beach_sunset_(Unsplash).jpg",
+  "author": "David Straight davidstraight"
+ },
+ "cs-cta-bg": {
+  "file": "File:Front row audience (Unsplash).jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Front_row_audience_(Unsplash).jpg",
+  "author": "Melanie van Leeuwen strompictures"
+ },
+ "login-visual": {
+  "file": "File:Film Reel on an IMAX 15 70 mm Film Projector 2.jpg",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Film_Reel_on_an_IMAX_15_70_mm_Film_Projector_2.jpg",
+  "author": "DiscoA340"
+ }
+}
