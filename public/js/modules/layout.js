@@ -18,23 +18,29 @@ const dirBtn = () => `<button type="button" class="icon-btn" data-dir-toggle ari
 const loginBtn = (cls = '') => `<a href="${DATA.login.href}" class="btn btn-secondary ${cls}">${DATA.login.label}</a>`;
 const ctaBtn = (cls = '') => `<a href="${DATA.cta.href}" class="btn btn-primary ${cls}">${DATA.cta.label}</a>`;
 
+/* Current page (file name), used to mark the active navigation item. */
+const here = location.pathname.split('/').pop() || 'index.html';
+const cur = (href) => (href === here ? ' aria-current="page"' : '');
+
 function desktopNav() {
   return DATA.nav.map((item, i) => {
-    if (!item.children) return `<li><a class="nav-link" href="${item.href}">${item.label}</a></li>`;
+    if (!item.children) return `<li><a class="nav-link" href="${item.href}"${cur(item.href)}>${item.label}</a></li>`;
     const id = `dd-${i}`;
+    const active = item.children.some((c) => c.href === here);
     return `<li class="relative" data-dropdown>
-<button type="button" class="nav-link inline-flex items-center gap-1" aria-expanded="false" aria-haspopup="true" aria-controls="${id}" data-dropdown-trigger>${item.label}${icon(ICONS.chev, 'h-4 w-4')}</button>
-<div id="${id}" class="dropdown-panel" hidden>${item.children.map((c) => `<a href="${c.href}">${c.label}</a>`).join('')}</div></li>`;
+<button type="button" class="nav-link inline-flex items-center gap-1${active ? ' is-active' : ''}" aria-expanded="false" aria-haspopup="true" aria-controls="${id}" data-dropdown-trigger>${item.label}${icon(ICONS.chev, 'h-4 w-4')}</button>
+<div id="${id}" class="dropdown-panel" hidden>${item.children.map((c) => `<a href="${c.href}"${cur(c.href)}>${c.label}</a>`).join('')}</div></li>`;
   }).join('');
 }
 
 function mobileNav() {
   const big = 'font-display text-2xl py-3 block border-b border-[var(--border)]';
   return DATA.nav.map((item, i) => {
-    if (!item.children) return `<li><a class="${big}" href="${item.href}" data-menu-link>${item.label}</a></li>`;
+    if (!item.children) return `<li><a class="${big}${item.href === here ? ' text-[var(--accent)]' : ''}" href="${item.href}"${cur(item.href)} data-menu-link>${item.label}</a></li>`;
     const id = `mdd-${i}`;
-    return `<li><button type="button" class="${big} w-full flex items-center justify-between text-start" aria-expanded="false" aria-controls="${id}" data-accordion-trigger><span>${item.label}</span>${icon(ICONS.chev, 'h-5 w-5')}</button>
-<ul id="${id}" class="ps-4 py-2" hidden>${item.children.map((c) => `<li><a class="block py-2 text-lg text-[var(--muted)]" href="${c.href}" data-menu-link>${c.label}</a></li>`).join('')}</ul></li>`;
+    const active = item.children.some((c) => c.href === here);
+    return `<li><button type="button" class="${big} w-full flex items-center justify-between text-start${active ? ' text-[var(--accent)]' : ''}" aria-expanded="false" aria-controls="${id}" data-accordion-trigger><span>${item.label}</span>${icon(ICONS.chev, 'h-5 w-5')}</button>
+<ul id="${id}" class="ps-4 py-2" hidden>${item.children.map((c) => `<li><a class="block py-2 text-lg ${c.href === here ? 'text-[var(--accent)] font-semibold' : 'text-[var(--muted)]'}" href="${c.href}"${cur(c.href)} data-menu-link>${c.label}</a></li>`).join('')}</ul></li>`;
   }).join('');
 }
 

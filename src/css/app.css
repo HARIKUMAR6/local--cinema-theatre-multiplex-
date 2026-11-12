@@ -80,8 +80,8 @@
   @media (min-width: 768px) { .app-topbar { gap: .6rem; padding-inline: 1.5rem; } }
   .app-topbar .grow { flex: 1; }
   .crumb { display: none; font-size: .85rem; color: var(--muted); }
-  .top-cta { display: none; }
-  @media (min-width: 640px) { .crumb { display: block; } .top-cta { display: inline-flex; margin-inline-end: .25rem; } }
+  .app-topbar .top-cta { display: none; }
+  @media (min-width: 640px) { .crumb { display: block; } .app-topbar .top-cta { display: inline-flex; margin-inline-end: .25rem; } }
   .bell { position: relative; }
   .bell-count { position: absolute; top: -.25rem; inset-inline-end: -.25rem; display: grid; place-items: center; min-width: 1.1rem; height: 1.1rem; padding: 0 .25rem; font-size: .65rem; font-weight: 700; color: #fff; background: var(--danger); border-radius: 999px; }
   .avatar { display: grid; flex: none; place-items: center; width: 2.25rem; height: 2.25rem; font-size: .8rem; font-weight: 700; color: var(--accent-contrast); background: var(--accent); border-radius: 999px; }
@@ -264,6 +264,32 @@
   .app-dialog::backdrop { background: rgb(0 0 0 / .6); }
   .dialog-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.25rem; }
   .dialog-actions .btn { flex: 1 1 8rem; }
+
+  /* Mobile dashboard alignment (phones only; tablet and desktop are unchanged). */
+  @media (max-width: 639px) {
+    .app-topbar .grow { flex: 1; }
+    .page-actions { width: 100%; }
+    .page-actions .btn { flex: 1 1 0; min-width: 0; }
+    .panel, .booking-card, .next-card, .ticket, .stat-tile { padding: 1rem; }
+    .table-panel { padding: 0; }
+    /* Booking, next-booking and ticket cards: poster beside the heading, facts and buttons full width. */
+    .booking-card, .next-card, .ticket { row-gap: .4rem; align-items: start; }
+    .booking-card .bk-body, .next-card .bk-body, .ticket .ticket-body { display: contents; }
+    .booking-card .media, .ticket .media { grid-row: 1 / span 3; }
+    .next-card .media { grid-row: 1 / span 4; }
+    .bk-facts, .ticket-notes, .bk-actions { grid-column: 1 / -1; }
+    .bk-facts { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .bk-actions { display: grid; grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr)); gap: .6rem; }
+    .bk-actions .btn { width: 100%; min-width: 0; }
+    .bk-actions .btn:last-child:nth-child(odd) { grid-column: 1 / -1; }
+    .detail-side .btn { width: 100%; }
+    /* Rewards and points cards */
+    .points-card .btn, .reward .btn { align-self: stretch; width: 100%; min-width: 0; }
+    .offer-actions .btn { flex: 1 1 8rem; }
+    /* Profile summary: values sit next to their labels, left aligned */
+    .member-facts div { justify-content: flex-start; }
+    .member-facts dt { flex: 0 0 7.5rem; }
+  }
 
   @media print {
     .app-sidebar, .app-topbar, .no-print, .toolbar, .page-head, .detail-side .btn, .app-overlay { display: none !important; }

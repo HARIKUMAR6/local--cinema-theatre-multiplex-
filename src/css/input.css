@@ -124,6 +124,9 @@
 
   .nav-link { position: relative; padding: .5rem .25rem; font-weight: 500; color: var(--text); transition: color .2s; }
   .nav-link:hover { color: var(--accent); }
+  .nav-link::after { content: ""; position: absolute; inset-inline: .25rem; bottom: -.15rem; height: 2px; background: var(--accent); border-radius: 2px; transform: scaleX(0); transition: transform .2s; }
+  .nav-link[aria-current="page"], .nav-link.is-active { color: var(--accent); }
+  .nav-link[aria-current="page"]::after, .nav-link.is-active::after { transform: scaleX(1); }
 
   .dropdown-panel {
     position: absolute; inset-inline-start: 0; top: calc(100% + .5rem); min-width: 14rem; padding: .5rem;
@@ -131,6 +134,7 @@
   }
   .dropdown-panel a { display: block; padding: .6rem .9rem; border-radius: .5rem; }
   .dropdown-panel a:hover, .dropdown-panel a:focus-visible { background: var(--surface-2); color: var(--accent); }
+  .dropdown-panel a[aria-current="page"] { background: var(--surface-2); color: var(--accent); font-weight: 600; }
 
   .site-header { position: sticky; top: 0; z-index: var(--z-header); background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
 
